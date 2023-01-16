@@ -3,7 +3,7 @@
 ## Project Overview
 In this project, I will use LSTM models for a time series prediction task. The goal is to create a model that can accurately predict energy usage given historical consumption data provided.
 
-### Dataset : AEP_hourly.csv
+#### Dataset : AEP_hourly.csv
 Source : Kaggle
 
 ### Exploratory Data Analysis
@@ -12,9 +12,13 @@ Source : Kaggle
 
 
 **Energy Comsumption Each Year** 
+
+
 ![image](https://user-images.githubusercontent.com/72246104/212737043-17b3f683-c2b4-4446-8bc0-5405e7b2f0ce.png)
 
 ![image](https://user-images.githubusercontent.com/72246104/212737287-a5197089-8ac2-42e3-9c5f-e98a8b7be0bd.png)
+
+
 <br/>
 
 
